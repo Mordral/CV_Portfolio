@@ -50,6 +50,8 @@ img {
   border-right: var(--border) solid 1px;
   background: var(--light);
   padding: 2rem 3rem; }
+  .information-area .area {
+    padding-bottom: 3rem; }
   .information-area h2 {
     font-size: 1rem;
     padding: 1.6rem 0rem;
